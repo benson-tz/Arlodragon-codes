@@ -79,7 +79,7 @@ router.get('/', async (req, res) => {
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│TIGER-BUGBOT-RADIATION CONNECTED SUCCESSFULLY 
+│THUNDER-CLASSIC-BUG CONNECTED SUCCESSFULLY 
 └┬❖  
 ┌┤✑ credits to sir collins
 │└────────────┈ ⳹        
