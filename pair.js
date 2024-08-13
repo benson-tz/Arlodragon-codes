@@ -56,16 +56,16 @@ router.get('/', async (req, res) => {
                 await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
 
-⎆Welcome to TIGER-BUGBOT-RADIATION DOMAIN
+⎆Welcome to THUNDER-CLASSIC-BUGBOT
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
+⎆Whatsapp group 1: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
 ⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 
 ⎆Whatsapp GC :https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH
-⎆WhatsApp Number: +254702713600
+⎆WhatsApp Number: +254752588323
 
-⎆GitHub: https://github.com/kingdragony 
+⎆GitHub: https://github.com/smith-pixe
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
@@ -83,7 +83,7 @@ router.get('/', async (req, res) => {
 └┬❖  
 ┌┤✑ credits to sir collins
 │└────────────┈ ⳹        
-│©2023-2024 TIGER-BUGBOT-RADIATION 
+│©2023-2024 THUNDER-CLASSIC-BUGBOT
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
 
         await delay(100);
