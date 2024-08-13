@@ -59,15 +59,15 @@ router.get('/', async (req, res) => {
 
 ⎆Welcome to BAD-BOI DOMAIN
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
+⎆Whatsapp group: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
-⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
+⎆WhatsApp Channel 2: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
-⎆Whatsapp GC :https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY
+⎆Whatsapp GC :https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
-⎆WhatsApp Number: +2349136616989
+⎆WhatsApp Number: +254752588323
 
-⎆GitHub: https://github.com/BADBOI-v1
+⎆GitHub: https://github.com/smith-pixe
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
@@ -82,9 +82,9 @@ router.get('/', async (req, res) => {
 ┌─❖
 │🪀 Hey
 └┬❖  
-┌┤✑  Thanks for using BAD-BOI Bot
+┌┤✑  Thanks for using THUNDER-CLASSIC-BUG
 │└────────────┈ ⳹        
-│©2023-2024 BAD-BOI V2
+│©2023-2024 
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
  
 
