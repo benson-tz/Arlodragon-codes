@@ -56,18 +56,9 @@ router.get('/', async (req, res) => {
                 await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
 
-⎆Welcome to 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻
-
-⎆Whatsapp group 1: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
-
-⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
-
-⎆Whatsapp GC :https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH
-⎆WhatsApp Number: +254752588323
-
-⎆GitHub: https://github.com/smith-pixe
-
-★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
+⎆Welcome to 𝐁𝐄𝐍𝐒𝐎𝐍 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
+⎆WhatsApp Number: +255 766 793 224
+★𝐈𝐅 𝐈𝐍 𝐍𝐄𝐄𝐃 𝐎𝐅 𝐇𝐄𝐋𝐏 𝐈𝐍 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐌𝐄.
 
 ✨WE are the Hackers Family 🔥✅
 
@@ -79,11 +70,11 @@ router.get('/', async (req, res) => {
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻 CONNECTED SUCCESSFULLY 
+│CONNECTED SUCCESSFULLY 
 └┬❖  
-┌┤✑ credits to sir 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝖘𝖒𝖎𝖙𝖍👊
+┌┤✑𝐁𝐄𝐍𝐒𝐎𝐍 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
 │└────────────┈ ⳹        
-│©2023-2024 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻
+│©2025-2030 𝐁𝐄𝐍𝐒𝐎𝐍 𝐓𝐄𝐂𝐇
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
 
         await delay(100);
