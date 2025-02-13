@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
              const classic = await  Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
                Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH");
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
-             await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
+             await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐀𝐍𝐃 𝐂𝐎𝐏𝐘 𝐓𝐇𝐄 𝐂𝐑𝐄𝐃𝐒𝐉𝐒𝐎𝐍\n
 ┌─❖
 │CONNECTED SUCCESSFULLY 
 └┬❖  
